@@ -14,4 +14,5 @@ Features
  Hedera Certification
 
 I am a verified Hedera builder and have completed the official Hedera Ambassador/Developer certification.  [View My Certificate]
+https://drive.google.com/file/d/1eZ6iLVUtBdVJQDgzRB3nnKadQ10Gddi7/view?usp=drivesdk
 Project lead: Sultern (@sulternweb3)
