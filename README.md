@@ -9,8 +9,9 @@ Features
 
  How to run (demo)
 0. See the demo folder for a mock UI (Google Slides/Glide link)
-1. See `docs/pitch-deck.pdf` for slides and product overview
-2. See `demo/video-link.txt` for the demo video URL
+1. See (https://drive.google.com/file/d/1k8HxRMi41A6zg7SX0g3zWefpMjp4_40u/view?usp=drivesdk) for slides and product overview
 
- Contact
+ Hedera Certification
+
+I am a verified Hedera builder and have completed the official Hedera Ambassador/Developer certification.  [View My Certificate]
 Project lead: Sultern (@sulternweb3)
